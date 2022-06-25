@@ -3,7 +3,7 @@ Final project for CSC 111
 # ------------------------------------------------------
    Names: Helen Albright, Piper MacDonald, Morgan Morrison, and Sophia DaCosta
    
-   References: Aesop's Fables, https://www.asciiart.eu/(for art)
+   References: Aesop's Fables, https://www.asciiart.eu/ (for art)
 # ------------------------------------------------------
 
 Files required included in project:
